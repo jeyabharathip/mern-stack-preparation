@@ -1,2 +1,2 @@
-# MERN-Stack-prepapation
+# mern-stack-preparation
 MERN Stack developer preparation
